@@ -1,0 +1,20 @@
+июн. 15, 2023 9:37:52 PM Seminar2Task2 babblSort
+INFO: [63, 14, 7, 36, 51, 55, 21, 5, 80, 0]
+июн. 15, 2023 9:37:52 PM Seminar2Task2 babblSort
+INFO: [63, 14, 36, 51, 55, 21, 7, 80, 5, 0]
+июн. 15, 2023 9:37:52 PM Seminar2Task2 babblSort
+INFO: [63, 36, 51, 55, 21, 14, 80, 7, 5, 0]
+июн. 15, 2023 9:37:52 PM Seminar2Task2 babblSort
+INFO: [63, 51, 55, 36, 21, 80, 14, 7, 5, 0]
+июн. 15, 2023 9:37:52 PM Seminar2Task2 babblSort
+INFO: [63, 55, 51, 36, 80, 21, 14, 7, 5, 0]
+июн. 15, 2023 9:37:52 PM Seminar2Task2 babblSort
+INFO: [63, 55, 51, 80, 36, 21, 14, 7, 5, 0]
+июн. 15, 2023 9:37:52 PM Seminar2Task2 babblSort
+INFO: [63, 55, 80, 51, 36, 21, 14, 7, 5, 0]
+июн. 15, 2023 9:37:52 PM Seminar2Task2 babblSort
+INFO: [63, 80, 55, 51, 36, 21, 14, 7, 5, 0]
+июн. 15, 2023 9:37:52 PM Seminar2Task2 babblSort
+INFO: [80, 63, 55, 51, 36, 21, 14, 7, 5, 0]
+июн. 15, 2023 9:37:52 PM Seminar2Task2 babblSort
+INFO: [80, 63, 55, 51, 36, 21, 14, 7, 5, 0]
